@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.tag{
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.649), 
+    
+    0 0 30px rgb(254, 72, 254);;
+  }
+  
